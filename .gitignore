@@ -1,0 +1,9 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+
+# Local environment and source archives
+.env*
+!.env.example
+*.zip
